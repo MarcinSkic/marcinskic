@@ -4,9 +4,24 @@ Currently I am learning Computer Sciences at University of Technology in Lublin 
 ## Scratched Surface
 <table>
   <tr>
-    <td>
-      Haha
+    <td align="center" height="108" width="108">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-original.svg"
+      width="48"
+      height="48"
+      alt="GIMP">
+      <br /><strong>GIMP</strong>
     </td>
   </tr>
 </table>
-<img src=>
+
+## Beginner
+<table>
+  <td>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"
+      width="48"
+      height="48"
+      alt="Git">
+    </td>
+</table>
+
+## Intermediate
