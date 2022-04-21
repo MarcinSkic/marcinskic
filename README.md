@@ -1,16 +1,12 @@
-### Hi there 👋
-
-<!--
-**MarcinSkic/marcinskic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Hi there 👋
+Currently I am learning Computer Sciences at University of Technology in Lublin and in freetime I am doing "The Odin Project" curriculum which I hope to finish before 2023.
+# Technologies
+## Scratched Surface
+<table>
+  <tr>
+    <td>
+      Haha
+    </td>
+  </tr>
+</table>
+<img src=>
