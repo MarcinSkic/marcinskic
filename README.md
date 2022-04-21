@@ -4,6 +4,79 @@ Currently I am learning Computer Sciences at University of Technology in Lublin 
 <table>
   <tr>
     <td align="center" height="108" width="108">
+      <strong style='font-size: 20px'>Intermediate</strong>
+    </td>
+    <td align="center" height="108" width="108">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg"
+      width="48"
+      height="48"
+      alt="Unity">
+      <br /><strong>Unity</strong>
+    </td>
+    <td align="center" height="108" width="108">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"
+      width="48"
+      height="48"
+      alt="C#">
+      <br /><strong>C#</strong>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" height="108" width="108">
+      <strong style='font-size: 20px'>Beginner</strong>
+    </td>
+     <td align="center" height="108" width="108">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"
+        width="48"
+        height="48"
+        alt="HTML">
+        <br /><strong>HTML</strong>
+      </td> 
+      <td align="center" height="108" width="108">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"
+        width="48"
+        height="48"
+        alt="CSS">
+        <br /><strong>CSS</strong>
+      </td>
+      <td align="center" height="108" width="108">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"
+        width="48"
+        height="48"
+        alt="JS">
+        <br /><strong>JS</strong>
+      </td> 
+    <td align="center" height="108" width="108">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"
+        width="48"
+        height="48"
+        alt="Git">
+        <br /><strong>Git</strong>
+      </td>
+      <td align="center" height="108" width="108">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"
+        width="48"
+        height="48"
+        alt="Github">
+        <br /><strong>Github</strong>
+      </td>
+      <td align="center" height="108" width="108">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sourcetree/sourcetree-original.svg"
+        width="48"
+        height="48"
+        alt="SourceTree">
+        <br /><strong>SourceTree</strong>
+      </td>
+      <td align="center" height="108" width="108">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg"
+        width="48"
+        height="48"
+        alt="LaTeX">
+        <br /><strong>LaTeX</strong>
+      </td> 
+  </tr>
+  <tr>
+    <td align="center" height="108" width="108">
       <strong style='font-size: 20px'>Scratched the Surface</strong>
     </td>
     <td align="center" height="108" width="108">
@@ -12,6 +85,20 @@ Currently I am learning Computer Sciences at University of Technology in Lublin 
       height="48"
       alt="Java">
       <br /><strong>Java</strong>
+    </td>
+    <td align="center" height="108" width="108">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"
+      width="48"
+      height="48"
+      alt="C++">
+      <br /><strong>C++</strong>
+    </td>
+    <td align="center" height="108" width="108">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"
+      width="48"
+      height="48"
+      alt="C">
+      <br /><strong>C</strong>
     </td>
     <td align="center" height="108" width="108">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"
@@ -26,20 +113,6 @@ Currently I am learning Computer Sciences at University of Technology in Lublin 
       height="48"
       alt="Bash">
       <br /><strong>Bash</strong>
-    </td>
-    <td align="center" height="108" width="108">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"
-      width="48"
-      height="48"
-      alt="C">
-      <br /><strong>C</strong>
-    </td>
-    <td align="center" height="108" width="108">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"
-      width="48"
-      height="48"
-      alt="C++">
-      <br /><strong>C++</strong>
     </td>
     <td align="center" height="108" width="108">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/haskell/haskell-original.svg"
@@ -82,79 +155,6 @@ Currently I am learning Computer Sciences at University of Technology in Lublin 
       height="48"
       alt="Blender">
       <br /><strong>Blender</strong>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" height="108" width="108">
-      <strong style='font-size: 20px'>Beginner</strong>
-    </td>
-    <td align="center" height="108" width="108">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"
-        width="48"
-        height="48"
-        alt="Git">
-        <br /><strong>Git</strong>
-      </td>
-      <td align="center" height="108" width="108">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sourcetree/sourcetree-original.svg"
-        width="48"
-        height="48"
-        alt="SourceTree">
-        <br /><strong>SourceTree</strong>
-      </td>
-      <td align="center" height="108" width="108">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"
-        width="48"
-        height="48"
-        alt="Github">
-        <br /><strong>Github</strong>
-      </td>
-      <td align="center" height="108" width="108">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"
-        width="48"
-        height="48"
-        alt="HTML">
-        <br /><strong>HTML</strong>
-      </td> 
-      <td align="center" height="108" width="108">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"
-        width="48"
-        height="48"
-        alt="CSS">
-        <br /><strong>CSS</strong>
-      </td>
-      <td align="center" height="108" width="108">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"
-        width="48"
-        height="48"
-        alt="JS">
-        <br /><strong>JS</strong>
-      </td> 
-      <td align="center" height="108" width="108">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg"
-        width="48"
-        height="48"
-        alt="LaTeX">
-        <br /><strong>LaTeX</strong>
-      </td> 
-  </tr>
-  <tr>
-    <td align="center" height="108" width="108">
-      <strong style='font-size: 20px'>Intermediate</strong>
-    </td>
-    <td align="center" height="108" width="108">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"
-      width="48"
-      height="48"
-      alt="C#">
-      <br /><strong>C#</strong>
-    </td>
-    <td align="center" height="108" width="108">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg"
-      width="48"
-      height="48"
-      alt="Unity">
-      <br /><strong>Unity</strong>
     </td>
   </tr>
   <tr>
