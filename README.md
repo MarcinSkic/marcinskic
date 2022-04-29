@@ -205,3 +205,26 @@ Currently I am learning Computer Sciences at University of Technology in Lublin 
     </td>
   </tr>
 </table>
+
+## Next to advance
+
+<table>
+  <tr>
+    <td align="center" height="108" width="108">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"
+        width="48"
+        height="48"
+        alt="HTML">
+      <br /><strong>HTML</strong>
+      <br /><meter min="0" max="100" optimum="90" low="33" high="66" value="50">50</meter>
+    </td>
+    <td align="center" height="108" width="108">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"
+        width="48"
+        height="48"
+        alt="CSS">
+      <br /><strong>CSS</strong>
+      <br /><meter min="0" max="100" optimum="90" low="33" high="66" value="20">20</meter>
+      </td>
+  </tr>
+<table>
