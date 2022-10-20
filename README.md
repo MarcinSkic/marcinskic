@@ -136,6 +136,13 @@ Currently I learn Computer Sciences at University of Technology in Lublin and in
       <br /><strong>C++</strong>
     </td>
     <td align="center" height="108" width="108">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/embeddedc/embeddedc-original.svg"
+      width="48"
+      height="48"
+      alt="Embedded C">
+      <br /><strong>EmbeddedC</strong>
+    </td>
+    <td align="center" height="108" width="108">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"
       width="48"
       height="48"
