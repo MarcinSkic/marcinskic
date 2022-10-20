@@ -108,6 +108,13 @@ Currently I learn Computer Sciences at University of Technology in Lublin and in
       <br /><strong>NODEjs</strong>
     </td>
     <td align="center" height="108" width="108">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"
+      width="48"
+      height="48"
+      alt="PHP">
+      <br /><strong>PHP</strong>
+    </td>
+    <td align="center" height="108" width="108">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg"
       width="48"
       height="48"
