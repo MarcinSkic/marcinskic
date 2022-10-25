@@ -6,30 +6,24 @@ Currently I learn Computer Sciences at University of Technology in Lublin and in
     display: grid;
     grid-template-columns: repeat(auto-fill, minmax(80px, 1fr));
   }
-
   .grid img {
     width: 40px;
   }
-
   .grid > div {
     display: grid;
     place-items: center;
     align-items: center;
   }
-
   .row {
     display: flex;
   }
-
   .title{
     display:flex;
     align-items: center;
     font-size: 20px;
     font-weight: 700;
   }
-
 </style>
-
 <div>
   <div class="row">
     <span class='title'>Intermediate</span>
