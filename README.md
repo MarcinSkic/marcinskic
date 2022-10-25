@@ -1,7 +1,7 @@
 # Hi there 👋
 Currently I learn Computer Sciences at University of Technology in Lublin and in freetime I do "The Odin Project" curriculum which I hope to finish before 2023.
 # Technologies
-<style>
+<!--<style>
   .grid {
     display: grid;
     grid-template-columns: repeat(auto-fill, minmax(80px, 1fr));
@@ -45,7 +45,7 @@ Currently I learn Computer Sciences at University of Technology in Lublin and in
   <div>Heloł</div>
   
 </div>
-
+-->
 <table>
   <tr>
     <td align="center" height="108" width="108">
@@ -188,10 +188,7 @@ Currently I learn Computer Sciences at University of Technology in Lublin and in
       <br /><strong>EmbeddedC</strong>
     </td>
     <td align="center" height="108" width="108">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"
-      width="48"
-      height="48"
-      alt="C">
+      <img src="https://camo.githubusercontent.com/..." data-canonical-srv="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="48" height="48" alt="C">
       <br /><strong>C</strong>
     </td>
     <td align="center" height="108" width="108">
