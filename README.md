@@ -1,57 +1,13 @@
 # Hi there 👋
 Currently I learn Computer Sciences at University of Technology in Lublin and in freetime I do "The Odin Project" curriculum which I hope to finish before 2023.
 # Technologies
-<!--<style>
-  .grid {
-    display: grid;
-    grid-template-columns: repeat(auto-fill, minmax(80px, 1fr));
-  }
-  .grid img {
-    width: 40px;
-  }
-  .grid > div {
-    display: grid;
-    place-items: center;
-    align-items: center;
-  }
-  .row {
-    display: flex;
-  }
-  .title{
-    display:flex;
-    align-items: center;
-    font-size: 20px;
-    font-weight: 700;
-  }
-</style>
-<div>
-  <div class="row">
-    <span class='title'>Intermediate</span>
-    <div class="grid">
-      <div>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"
-        alt="HTML">
-        <strong>HTML</strong>
-      </div>
-    </div>
-  </div>
-  <div style='grid-row: 1 / 4'>Intermediate</div>
-  <div>Heloł</div>
-  <div>Heloł</div>
-  <div>Heloł</div>
-  <div>Heloł</div>
-  <div>Heloł</div>
-  <div>Heloł</div>
-  <div>Heloł</div>
-  
-</div>
--->
+
 <table>
   <tr>
     <td align="center" height="108" width="108">
       <strong style='font-size: 20px'>Intermediate</strong>
     </td>
-    <td align="center" height="108" width="108">
+    <td height="108" width="108">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"
         width="48"
         height="48"
@@ -128,7 +84,7 @@ Currently I learn Computer Sciences at University of Technology in Lublin and in
       </td> 
   </tr>
   <tr>
-    <td align="center" height="108" width="108">
+    <td rowspan=2 align="center" height="108" width="108">
       <strong style='font-size: 20px'>Scratched the Surface</strong>
     </td>
     <td align="center" height="108" width="108">
@@ -187,8 +143,10 @@ Currently I learn Computer Sciences at University of Technology in Lublin and in
       alt="Embedded C">
       <br /><strong>EmbeddedC</strong>
     </td>
+  </tr>
+  <tr>
     <td align="center" height="108" width="108">
-      <img src="https://camo.githubusercontent.com/..." data-canonical-srv="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="48" height="48" alt="C">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="48" height="48" alt="C">
       <br /><strong>C</strong>
     </td>
     <td align="center" height="108" width="108">
