@@ -16,7 +16,7 @@ Currently I learn Computer Sciences at University of Technology in Lublin and in
       </td>
     <td align="center" height="108" width="108">
       <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MarcinSkic/marcinskic/darkmode/unity-dark.svg?sanitize=true">
+        <source media="(prefers-color-scheme: dark)" srcset="./icons/unity-dark.svg">
         <img alt="Unity" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg"
         width="48"
         height="48"
@@ -66,13 +66,13 @@ Currently I learn Computer Sciences at University of Technology in Lublin and in
       </td>
       <td align="center" height="108" width="108">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="./github-dark.svg">
+          <source media="(prefers-color-scheme: dark)" srcset="./icons/github-dark.svg">
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"
           width="48"
           height="48"
-          alt="Github">
-          <br /><strong>Github</strong>
+          alt="Github">    
         </picture>
+        <br /><strong>Github</strong>
       </td>
       <td align="center" height="108" width="108">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sourcetree/sourcetree-original.svg"
@@ -82,10 +82,13 @@ Currently I learn Computer Sciences at University of Technology in Lublin and in
         <br /><strong>SourceTree</strong>
       </td>
       <td align="center" height="108" width="108">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg"
-        width="48"
-        height="48"
-        alt="LaTeX">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="./icons/latex-dark.svg">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg"
+          width="48"
+          height="48"
+          alt="LaTeX">
+        </picture>
         <br /><strong>LaTeX</strong>
       </td> 
   </tr>
@@ -238,10 +241,13 @@ Currently I learn Computer Sciences at University of Technology in Lublin and in
       <br /><strong>Flutter</strong>
     </td>
     <td align="center" height="108" width="108">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg"
-      width="48"
-      height="48"
-      alt="Flutter">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="./icons/rust-dark.svg">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg"
+        width="48"
+        height="48"
+        alt="Flutter">
+      </picture>
       <br /><strong>Rust</strong>
     </td>
   </tr>
