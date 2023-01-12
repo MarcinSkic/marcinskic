@@ -16,8 +16,11 @@ Currently I learn Computer Sciences at University of Technology in Lublin and in
       </td>
     <td align="center" height="108" width="108">
       <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg">
-        <img alt="Unity" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg">
+        <source media="(prefers-color-scheme: dark)" srcset="./unity-dark.svg">
+        <img alt="Unity" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg"
+        width="48"
+        height="48"
+        alt="HTML">
       </picture>
       <br /><strong>Unity</strong>
     </td>
