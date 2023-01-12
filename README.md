@@ -242,11 +242,11 @@ Currently I learn Computer Sciences at University of Technology in Lublin and in
     </td>
     <td align="center" height="108" width="108">
       <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="./icons/rust-dark.svg">
+          <source media="(prefers-color-scheme: dark)" srcset="./icons/rust-dark.svg">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg"
         width="48"
         height="48"
-        alt="Flutter">
+        alt="Rust">
       </picture>
       <br /><strong>Rust</strong>
     </td>
