@@ -132,6 +132,13 @@ Currently I learn Computer Sciences at University of Technology in Lublin and in
       <br /><strong>PHP</strong>
     </td>
     <td align="center" height="108" width="108">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg"
+      width="48"
+      height="48"
+      alt="PHP">
+      <br /><strong>Laravel</strong>
+    </td>
+    <td align="center" height="108" width="108">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"
       width="48"
       height="48"
@@ -164,6 +171,13 @@ Currently I learn Computer Sciences at University of Technology in Lublin and in
     <td align="center" height="108" width="108">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="48" height="48" alt="C">
       <br /><strong>C</strong>
+    </td>
+    <td align="center" height="108" width="108">
+      <img src="./icons/vite.svg"
+      width="48"
+      height="48"
+      alt="Vite">
+      <br /><strong>Vite</strong>
     </td>
     <td align="center" height="108" width="108">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"
