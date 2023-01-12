@@ -65,11 +65,14 @@ Currently I learn Computer Sciences at University of Technology in Lublin and in
         <br /><strong>Git</strong>
       </td>
       <td align="center" height="108" width="108">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"
-        width="48"
-        height="48"
-        alt="Github">
-        <br /><strong>Github</strong>
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="./github-dark.svg">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"
+          width="48"
+          height="48"
+          alt="Github">
+          <br /><strong>Github</strong>
+        </picture>
       </td>
       <td align="center" height="108" width="108">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sourcetree/sourcetree-original.svg"
