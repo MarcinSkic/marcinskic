@@ -202,6 +202,20 @@ Currently I learn Computer Sciences at University of Technology in Lublin and in
       alt="NumPy">
       <br /><strong>NumPy</strong>
     </td>
+    <td align="center" height="108" width="108">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg"
+      width="48"
+      height="48"
+      alt="NumPy">
+      <br /><strong>TensorFlow</strong>
+    </td>
+    <td align="center" height="108" width="108">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg"
+      width="48"
+      height="48"
+      alt="Qt">
+      <br /><strong>Qt</strong>
+    </td>
   </tr>
   <tr>
     <td align="center" height="108" width="108">
