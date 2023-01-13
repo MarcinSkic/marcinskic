@@ -90,11 +90,21 @@ Currently I learn Computer Sciences at University of Technology in Lublin and in
           alt="LaTeX">
         </picture>
         <br /><strong>LaTeX</strong>
-      </td> 
+      </td>
+      <td align="center" height="108" width="108">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="./icons/markdown-dark.svg">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg"
+          width="48"
+          height="48"
+          alt="Markdown">
+        </picture>
+        <br /><strong>Markdown</strong>
+      </td>
   </tr>
   <tr>
-    <td rowspan=2 align="center" height="108" width="108">
-      <strong style='font-size: 20px'>Scratched the Surface</strong>
+    <td align="center" height="108" width="108">
+      <strong style='font-size: 20px'>Scratching the Surface (learning)</strong>
     </td>
     <td align="center" height="108" width="108">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg"
@@ -102,20 +112,6 @@ Currently I learn Computer Sciences at University of Technology in Lublin and in
       height="48"
       alt="npm">
       <br /><strong>npm</strong>
-    </td>
-    <td align="center" height="108" width="108">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg"
-      width="48"
-      height="48"
-      alt="webpack">
-      <br /><strong>webpack</strong>
-    </td>
-    <td align="center" height="108" width="108">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"
-      width="48"
-      height="48"
-      alt="NODEjs">
-      <br /><strong>NODEjs</strong>
     </td>
     <td align="center" height="108" width="108">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
@@ -137,6 +133,32 @@ Currently I learn Computer Sciences at University of Technology in Lublin and in
       height="48"
       alt="PHP">
       <br /><strong>Laravel</strong>
+    </td>
+    <td align="center" height="108" width="108">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg"
+      width="48"
+      height="48"
+      alt="webpack">
+      <br /><strong>webpack</strong>
+    </td>
+    <td align="center" height="108" width="108">
+      <img src="./icons/vite.svg"
+      width="48"
+      height="48"
+      alt="Vite">
+      <br /><strong>Vite</strong>
+    </td>
+    <td align="center" height="108" width="108">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"
+      width="48"
+      height="48"
+      alt="NODEjs">
+      <br /><strong>NODEjs</strong>
+    </td>
+  </tr>
+  <tr>
+    <td rowspan=2 align="center" height="108" width="108">
+      <strong style='font-size: 20px'>Scratched the Surface</strong>
     </td>
     <td align="center" height="108" width="108">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"
@@ -166,18 +188,25 @@ Currently I learn Computer Sciences at University of Technology in Lublin and in
       alt="Swfit">
       <br /><strong>Swift</strong>
     </td>
+    <td align="center" height="108" width="108">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"
+      width="48"
+      height="48"
+      alt="MySQL">
+      <br /><strong>MySQL</strong>
+    </td>
+    <td align="center" height="108" width="108">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg"
+      width="48"
+      height="48"
+      alt="NumPy">
+      <br /><strong>NumPy</strong>
+    </td>
   </tr>
   <tr>
     <td align="center" height="108" width="108">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="48" height="48" alt="C">
       <br /><strong>C</strong>
-    </td>
-    <td align="center" height="108" width="108">
-      <img src="./icons/vite.svg"
-      width="48"
-      height="48"
-      alt="Vite">
-      <br /><strong>Vite</strong>
     </td>
     <td align="center" height="108" width="108">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"
@@ -263,6 +292,20 @@ Currently I learn Computer Sciences at University of Technology in Lublin and in
         alt="Rust">
       </picture>
       <br /><strong>Rust</strong>
+    </td>
+    <td align="center" height="108" width="108">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg"
+      width="48"
+      height="48"
+      alt="Arduino">
+      <br /><strong>Arduino</strong>
+    </td>
+    <td align="center" height="108" width="108">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"
+      width="48"
+      height="48"
+      alt="Docker">
+      <br /><strong>Docker</strong>
     </td>
   </tr>
 </table>
