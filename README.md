@@ -104,7 +104,8 @@ Currently I learn Computer Sciences at University of Technology in Lublin and in
   </tr>
   <tr>
     <td align="center" height="108" width="108">
-      <strong style='font-size: 20px'>Scratching the Surface (learning)</strong>
+      <strong style='font-size: 20px'>Scratching the Surface</strong>
+      <i>aka. Learning</i>
     </td>
     <td align="center" height="108" width="108">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg"
