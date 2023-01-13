@@ -211,6 +211,13 @@ Currently I learn Computer Sciences at University of Technology in Lublin and in
       <br /><strong>TensorFlow</strong>
     </td>
     <td align="center" height="108" width="108">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg"
+      width="48"
+      height="48"
+      alt="NumPy">
+      <br /><strong>Jupyter</strong>
+    </td>
+    <td align="center" height="108" width="108">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg"
       width="48"
       height="48"
