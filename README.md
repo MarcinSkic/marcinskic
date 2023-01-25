@@ -156,6 +156,13 @@ Currently I learn Computer Sciences at University of Technology in Lublin and in
       alt="NODEjs">
       <br /><strong>NODEjs</strong>
     </td>
+    <td align="center" height="108" width="108">
+      <img src="https://user-images.githubusercontent.com/33003089/214561002-1755201e-fc24-46cb-9463-d3704e1d52eb.svg"
+      width="48"
+      height="48"
+      alt="PowerShell">
+      <br /><strong>PowerShell</strong>
+    </td>
   </tr>
   <tr>
     <td rowspan=2 align="center" height="108" width="108">
