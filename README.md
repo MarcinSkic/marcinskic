@@ -15,12 +15,19 @@ Currently I learn Computer Sciences at University of Technology in Lublin and in
         <br /><strong>HTML</strong>
       </td>
     <td align="center" height="108" width="108">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"
+        width="48"
+        height="48"
+        alt="CSS">
+        <br /><strong>CSS</strong>
+      </td>
+    <td align="center" height="108" width="108">
       <picture>
         <source media="(prefers-color-scheme: dark)" srcset="./icons/unity-dark.svg">
         <img alt="Unity" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg"
         width="48"
         height="48"
-        alt="HTML">
+        alt="Unity">
       </picture>
       <br /><strong>Unity</strong>
     </td>
@@ -35,14 +42,7 @@ Currently I learn Computer Sciences at University of Technology in Lublin and in
   <tr>
     <td align="center" height="108" width="108">
       <strong style='font-size: 20px'>Beginner</strong>
-    </td> 
-      <td align="center" height="108" width="108">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"
-        width="48"
-        height="48"
-        alt="CSS">
-        <br /><strong>CSS</strong>
-      </td>
+    </td>
       <td align="center" height="108" width="108">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg"
         width="48"
