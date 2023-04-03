@@ -1,5 +1,7 @@
 # Hi there 👋
+
 Currently I learn Computer Sciences at University of Technology in Lublin and in freetime I do "The Odin Project" curriculum which I hope to finish soon&trade;.
+
 # Technologies
 
 <table>
@@ -113,6 +115,13 @@ Currently I learn Computer Sciences at University of Technology in Lublin and in
       height="48"
       alt="npm">
       <br /><strong>npm</strong>
+    </td>
+    <td align="center" height="108" width="108">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"
+      width="48"
+      height="48"
+      alt="Typescript">
+      <br /><strong>Typescript</strong>
     </td>
     <td align="center" height="108" width="108">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
@@ -334,13 +343,6 @@ Currently I learn Computer Sciences at University of Technology in Lublin and in
   <tr>
     <td align="center" height="108" width="108">
       <strong style='font-size: 20px'>Want to learn</strong>
-    </td>
-    <td align="center" height="108" width="108">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"
-      width="48"
-      height="48"
-      alt="Typescript">
-      <br /><strong>Typescript</strong>
     </td>
     <td align="center" height="108" width="108">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg"
