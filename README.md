@@ -9,6 +9,13 @@ Currently I learn Computer Sciences at University of Technology in Lublin and in
     <td align="center" height="108" width="108">
       <strong style='font-size: 20px'>Intermediate</strong>
     </td>
+     <td align="center" height="108" width="108">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"
+        width="48"
+        height="48"
+        alt="JS">
+        <br /><strong>JS</strong>
+      </td> 
     <td align="center" height="108" width="108">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"
         width="48"
@@ -52,13 +59,6 @@ Currently I learn Computer Sciences at University of Technology in Lublin and in
         alt="Sass">
         <br /><strong>Sass</strong>
       </td>
-      <td align="center" height="108" width="108">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"
-        width="48"
-        height="48"
-        alt="JS">
-        <br /><strong>JS</strong>
-      </td> 
     <td align="center" height="108" width="108">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"
         width="48"
