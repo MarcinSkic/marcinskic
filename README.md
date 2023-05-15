@@ -105,16 +105,26 @@ Currently I learn Computer Sciences at University of Technology in Lublin and in
       </td>
   </tr>
   <tr>
-    <td align="center" height="108" width="108">
+    <td rowspan=2 align="center" height="108" width="108">
       <strong style='font-size: 20px'>Scratching the Surface</strong>
       <i>aka. Learning</i>
     </td>
     <td align="center" height="108" width="108">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg"
+      <picture> 
+      <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/33003089/227041204-71a593b5-395e-4de9-82ff-21f6113c2c8a.svg">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" 
+      width="48" 
+      height="48"
+      alt="Express"
+      ></picture>
+      <br /><strong>Express</strong>
+    </td>
+    <td align="center" height="108" width="108">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"
       width="48"
       height="48"
-      alt="npm">
-      <br /><strong>npm</strong>
+      alt="NODEjs">
+      <br /><strong>NODEjs</strong>
     </td>
     <td align="center" height="108" width="108">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"
@@ -131,25 +141,27 @@ Currently I learn Computer Sciences at University of Technology in Lublin and in
       <br /><strong>React</strong>
     </td>
     <td align="center" height="108" width="108">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg"
+      width="48"
+      height="48"
+      alt="npm">
+      <br /><strong>npm</strong>
+    </td>
+    <td align="center" height="108" width="108">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg"
       width="48"
       height="48"
       alt="webpack">
       <br /><strong>webpack</strong>
     </td>
+  </tr>
+  <tr>
     <td align="center" height="108" width="108">
       <img src="./icons/vite.svg"
       width="48"
       height="48"
       alt="Vite">
       <br /><strong>Vite</strong>
-    </td>
-    <td align="center" height="108" width="108">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"
-      width="48"
-      height="48"
-      alt="NODEjs">
-      <br /><strong>NODEjs</strong>
     </td>
     <td align="center" height="108" width="108">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"
@@ -164,6 +176,20 @@ Currently I learn Computer Sciences at University of Technology in Lublin and in
       height="48"
       alt="MongoDB">
       <br /><strong>MongoDB</strong>
+    </td>
+    <td align="center" height="108" width="108">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/neo4j/neo4j-original.svg"
+      width="48"
+      height="48"
+      alt="Neo4j">
+      <br /><strong>Neo4j</strong>
+    </td>
+    <td align="center" height="108" width="108">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg"
+      width="48"
+      height="48"
+      alt="Kotlin">
+      <br /><strong>Kotlin</strong>
     </td>
   </tr>
   <tr>
@@ -266,13 +292,6 @@ Currently I learn Computer Sciences at University of Technology in Lublin and in
       height="48"
       alt="Android Studio">
       <br /><strong>Android</strong>
-    </td>
-    <td align="center" height="108" width="108">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg"
-      width="48"
-      height="48"
-      alt="Kotlin">
-      <br /><strong>Kotlin</strong>
     </td>
     <td align="center" height="108" width="108">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"
