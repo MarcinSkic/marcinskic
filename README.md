@@ -191,6 +191,13 @@ Currently I learn Computer Sciences at University of Technology in Lublin and in
       alt="Kotlin">
       <br /><strong>Kotlin</strong>
     </td>
+        <td align="center" height="108" width="108">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg"
+      width="48"
+      height="48"
+      alt="Android Studio">
+      <br /><strong>Android</strong>
+    </td>
   </tr>
   <tr>
     <td rowspan=3 align="center" height="108" width="108">
@@ -202,27 +209,6 @@ Currently I learn Computer Sciences at University of Technology in Lublin and in
       height="48"
       alt="Python">
       <br /><strong>Python</strong>
-    </td>
-    <td align="center" height="108" width="108">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"
-      width="48"
-      height="48"
-      alt="C++">
-      <br /><strong>C++</strong>
-    </td>
-    <td align="center" height="108" width="108">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/embeddedc/embeddedc-original.svg"
-      width="48"
-      height="48"
-      alt="Embedded C">
-      <br /><strong>EmbeddedC</strong>
-    </td>
-    <td align="center" height="108" width="108">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg"
-      width="48"
-      height="48"
-      alt="Swfit">
-      <br /><strong>Swift</strong>
     </td>
     <td align="center" height="108" width="108">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"
@@ -245,6 +231,13 @@ Currently I learn Computer Sciences at University of Technology in Lublin and in
       alt="MySQL">
       <br /><strong>MySQL</strong>
     </td>
+        <td align="center" height="108" width="108">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg"
+      width="48"
+      height="48"
+      alt="Swfit">
+      <br /><strong>Swift</strong>
+    </td>
     <td align="center" height="108" width="108">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg"
       width="48"
@@ -252,8 +245,6 @@ Currently I learn Computer Sciences at University of Technology in Lublin and in
       alt="NumPy">
       <br /><strong>NumPy</strong>
     </td>
-  </tr>
-  <tr>
     <td align="center" height="108" width="108">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg"
       width="48"
@@ -261,6 +252,8 @@ Currently I learn Computer Sciences at University of Technology in Lublin and in
       alt="NumPy">
       <br /><strong>TensorFlow</strong>
     </td>
+  </tr>
+  <tr>
     <td align="center" height="108" width="108">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg"
       width="48"
@@ -276,6 +269,13 @@ Currently I learn Computer Sciences at University of Technology in Lublin and in
       <br /><strong>.NET</strong>
     </td>
     <td align="center" height="108" width="108">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"
+      width="48"
+      height="48"
+      alt="Java">
+      <br /><strong>Java</strong>
+    </td>
+    <td align="center" height="108" width="108">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg"
       width="48"
       height="48"
@@ -283,22 +283,22 @@ Currently I learn Computer Sciences at University of Technology in Lublin and in
       <br /><strong>Qt</strong>
     </td>
     <td align="center" height="108" width="108">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"
+      width="48"
+      height="48"
+      alt="C++">
+      <br /><strong>C++</strong>
+    </td>
+    <td align="center" height="108" width="108">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/embeddedc/embeddedc-original.svg"
+      width="48"
+      height="48"
+      alt="Embedded C">
+      <br /><strong>EmbeddedC</strong>
+    </td>
+    <td align="center" height="108" width="108">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="48" height="48" alt="C">
       <br /><strong>C</strong>
-    </td>
-    <td align="center" height="108" width="108">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg"
-      width="48"
-      height="48"
-      alt="Android Studio">
-      <br /><strong>Android</strong>
-    </td>
-    <td align="center" height="108" width="108">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"
-      width="48"
-      height="48"
-      alt="Java">
-      <br /><strong>Java</strong>
     </td>
   </tr>
   <tr>
