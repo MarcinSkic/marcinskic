@@ -49,17 +49,50 @@ Currently I learn Computer Sciences at University of Technology in Lublin and in
     </td>
   </tr>
   <tr>
-    <td align="center" height="108" width="108">
+    <td rowspan="2" align="center" height="108" width="108">
       <strong style='font-size: 20px'>Beginner</strong>
     </td>
-      <td align="center" height="108" width="108">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg"
-        width="48"
-        height="48"
-        alt="Sass">
-        <br /><strong>Sass</strong>
-      </td>
     <td align="center" height="108" width="108">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"
+      width="48"
+      height="48"
+      alt="Typescript">
+      <br /><strong>Typescript</strong>
+    </td>
+    <td align="center" height="108" width="108">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
+      width="48"
+      height="48"
+      alt="React">
+      <br /><strong>React</strong>
+    </td>
+    <td align="center" height="108" width="108">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg"
+      width="48"
+      height="48"
+      alt="Sass">
+      <br /><strong>Sass</strong>
+    </td>
+    <td align="center" height="108" width="108">
+      <picture> 
+      <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/33003089/227041204-71a593b5-395e-4de9-82ff-21f6113c2c8a.svg">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" 
+      width="48" 
+      height="48"
+      alt="Express"
+      ></picture>
+      <br /><strong>Express</strong>
+    </td>
+    <td align="center" height="108" width="108">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"
+      width="48"
+      height="48"
+      alt="MongoDB">
+      <br /><strong>MongoDB</strong>
+    </td>
+  </tr>
+  <tr>
+  <td align="center" height="108" width="108">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"
         width="48"
         height="48"
@@ -77,11 +110,11 @@ Currently I learn Computer Sciences at University of Technology in Lublin and in
         <br /><strong>Github</strong>
       </td>
       <td align="center" height="108" width="108">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sourcetree/sourcetree-original.svg"
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"
         width="48"
         height="48"
-        alt="SourceTree">
-        <br /><strong>SourceTree</strong>
+        alt="Docker">
+        <br /><strong>Docker</strong>
       </td>
       <td align="center" height="108" width="108">
         <picture>
@@ -105,19 +138,8 @@ Currently I learn Computer Sciences at University of Technology in Lublin and in
       </td>
   </tr>
   <tr>
-    <td rowspan=2 align="center" height="108" width="108">
-      <strong style='font-size: 20px'>Scratching the Surface</strong>
-      <i>aka. Learning</i>
-    </td>
-    <td align="center" height="108" width="108">
-      <picture> 
-      <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/33003089/227041204-71a593b5-395e-4de9-82ff-21f6113c2c8a.svg">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" 
-      width="48" 
-      height="48"
-      alt="Express"
-      ></picture>
-      <br /><strong>Express</strong>
+    <td rowspan=4 align="center" height="108" width="108">
+      <strong style='font-size: 20px'>Scratched the Surface</strong>
     </td>
     <td align="center" height="108" width="108">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"
@@ -126,82 +148,12 @@ Currently I learn Computer Sciences at University of Technology in Lublin and in
       alt="NODEjs">
       <br /><strong>NODEjs</strong>
     </td>
-    <td align="center" height="108" width="108">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"
-      width="48"
-      height="48"
-      alt="Typescript">
-      <br /><strong>Typescript</strong>
-    </td>
-    <td align="center" height="108" width="108">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
-      width="48"
-      height="48"
-      alt="React">
-      <br /><strong>React</strong>
-    </td>
-    <td align="center" height="108" width="108">
+        <td align="center" height="108" width="108">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg"
       width="48"
       height="48"
       alt="npm">
       <br /><strong>npm</strong>
-    </td>
-    <td align="center" height="108" width="108">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg"
-      width="48"
-      height="48"
-      alt="webpack">
-      <br /><strong>webpack</strong>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" height="108" width="108">
-      <img src="./icons/vite.svg"
-      width="48"
-      height="48"
-      alt="Vite">
-      <br /><strong>Vite</strong>
-    </td>
-    <td align="center" height="108" width="108">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"
-      width="48"
-      height="48"
-      alt="Docker">
-      <br /><strong>Docker</strong>
-    </td>
-    <td align="center" height="108" width="108">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"
-      width="48"
-      height="48"
-      alt="MongoDB">
-      <br /><strong>MongoDB</strong>
-    </td>
-    <td align="center" height="108" width="108">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/neo4j/neo4j-original.svg"
-      width="48"
-      height="48"
-      alt="Neo4j">
-      <br /><strong>Neo4j</strong>
-    </td>
-    <td align="center" height="108" width="108">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg"
-      width="48"
-      height="48"
-      alt="Kotlin">
-      <br /><strong>Kotlin</strong>
-    </td>
-        <td align="center" height="108" width="108">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg"
-      width="48"
-      height="48"
-      alt="Android Studio">
-      <br /><strong>Android</strong>
-    </td>
-  </tr>
-  <tr>
-    <td rowspan=3 align="center" height="108" width="108">
-      <strong style='font-size: 20px'>Scratched the Surface</strong>
     </td>
     <td align="center" height="108" width="108">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"
@@ -225,13 +177,43 @@ Currently I learn Computer Sciences at University of Technology in Lublin and in
       <br /><strong>Laravel</strong>
     </td>
     <td align="center" height="108" width="108">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/neo4j/neo4j-original.svg"
+      width="48"
+      height="48"
+      alt="Neo4j">
+      <br /><strong>Neo4j</strong>
+    </td>
+    <td align="center" height="108" width="108">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"
       width="48"
       height="48"
       alt="MySQL">
       <br /><strong>MySQL</strong>
     </td>
-        <td align="center" height="108" width="108">
+  </tr>
+  <tr>
+    <td align="center" height="108" width="108">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg"
+      width="48"
+      height="48"
+      alt="Kotlin">
+      <br /><strong>Kotlin</strong>
+    </td>
+    <td align="center" height="108" width="108">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"
+      width="48"
+      height="48"
+      alt="Java">
+      <br /><strong>Java</strong>
+    </td>
+    <td align="center" height="108" width="108">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg"
+      width="48"
+      height="48"
+      alt="Android Studio">
+      <br /><strong>Android</strong>
+    </td>
+    <td align="center" height="108" width="108">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg"
       width="48"
       height="48"
@@ -252,8 +234,6 @@ Currently I learn Computer Sciences at University of Technology in Lublin and in
       alt="NumPy">
       <br /><strong>TensorFlow</strong>
     </td>
-  </tr>
-  <tr>
     <td align="center" height="108" width="108">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg"
       width="48"
@@ -261,20 +241,8 @@ Currently I learn Computer Sciences at University of Technology in Lublin and in
       alt="NumPy">
       <br /><strong>Jupyter</strong>
     </td>
-    <td align="center" height="108" width="108">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg"
-      width="48"
-      height="48"
-      alt=".NET Framework">
-      <br /><strong>.NET</strong>
-    </td>
-    <td align="center" height="108" width="108">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"
-      width="48"
-      height="48"
-      alt="Java">
-      <br /><strong>Java</strong>
-    </td>
+  </tr>
+  <tr>
     <td align="center" height="108" width="108">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg"
       width="48"
@@ -300,14 +268,35 @@ Currently I learn Computer Sciences at University of Technology in Lublin and in
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="48" height="48" alt="C">
       <br /><strong>C</strong>
     </td>
-  </tr>
-  <tr>
+    <td align="center" height="108" width="108">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg"
+      width="48"
+      height="48"
+      alt="webpack">
+      <br /><strong>webpack</strong>
+    </td>
     <td align="center" height="108" width="108">
       <img src="https://user-images.githubusercontent.com/33003089/214561002-1755201e-fc24-46cb-9463-d3704e1d52eb.svg"
       width="48"
       height="48"
       alt="PowerShell">
       <br /><strong>PowerShell</strong>
+    </td>
+    <td align="center" height="108" width="108">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg"
+      width="48"
+      height="48"
+      alt="Bash">
+      <br /><strong>Bash</strong>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" height="108" width="108">
+      <img src="./icons/vite.svg"
+      width="48"
+      height="48"
+      alt="Vite">
+      <br /><strong>Vite</strong>
     </td>
     <td align="center" height="108" width="108">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/haskell/haskell-original.svg"
@@ -322,13 +311,6 @@ Currently I learn Computer Sciences at University of Technology in Lublin and in
       height="48"
       alt="LabView">
       <br /><strong>LabView</strong>
-    </td>
-    <td align="center" height="108" width="108">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg"
-      width="48"
-      height="48"
-      alt="Bash">
-      <br /><strong>Bash</strong>
     </td>
     <td align="center" height="108" width="108">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original.svg"
