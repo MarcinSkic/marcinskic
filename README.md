@@ -138,6 +138,19 @@ Currently I learn Computer Sciences at University of Technology in Lublin and in
       </td>
   </tr>
   <tr>
+    <td align="center" height="108" width="108">
+      <strong style='font-size: 20px'>Scratching the Surface</strong>
+      <i>aka. Learning</i>
+    </td>
+    <td align="center" height="108" width="108">
+      <img src="./icons/rust-dark.svg"
+      width="48"
+      height="48"
+      alt="Rust">
+      <br /><strong>Rust</strong>
+    </td>
+  </tr>
+  <tr>
     <td rowspan=4 align="center" height="108" width="108">
       <strong style='font-size: 20px'>Scratched the Surface</strong>
     </td>
@@ -358,13 +371,6 @@ Currently I learn Computer Sciences at University of Technology in Lublin and in
       height="48"
       alt="Flutter">
       <br /><strong>Flutter</strong>
-    </td>
-    <td align="center" height="108" width="108">
-      <img src="./icons/rust-dark.svg"
-      width="48"
-      height="48"
-      alt="Rust">
-      <br /><strong>Rust</strong>
     </td>
     <td align="center" height="108" width="108">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg"
