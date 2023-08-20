@@ -143,6 +143,16 @@ Currently I learn Computer Sciences at University of Technology in Lublin and in
       <i>aka. Learning</i>
     </td>
     <td align="center" height="108" width="108">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="./icons/next-official-dark.svg">
+          <img src="./icons/next-official-dark.svg"
+          width="48"
+          height="48"
+          alt="Next.js">
+        </picture>
+        <br /><strong>Next.js</strong>
+      </td>
+    <td align="center" height="108" width="108">
       <img src="./icons/rust-dark.svg"
       width="48"
       height="48"
