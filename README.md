@@ -53,18 +53,28 @@ Currently I learn Computer Sciences at University of Technology in Lublin and in
       <strong style='font-size: 20px'>Beginner</strong>
     </td>
     <td align="center" height="108" width="108">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"
-      width="48"
-      height="48"
-      alt="Typescript">
-      <br /><strong>Typescript</strong>
-    </td>
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="./icons/next-official-dark.svg">
+          <img src="./icons/next-official-dark.svg"
+          width="48"
+          height="48"
+          alt="Next.js">
+        </picture>
+        <br /><strong>Next.js</strong>
+      </td>
     <td align="center" height="108" width="108">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
       width="48"
       height="48"
       alt="React">
       <br /><strong>React</strong>
+    </td>
+    <td align="center" height="108" width="108">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"
+      width="48"
+      height="48"
+      alt="Typescript">
+      <br /><strong>Typescript</strong>
     </td>
     <td align="center" height="108" width="108">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg"
@@ -83,16 +93,16 @@ Currently I learn Computer Sciences at University of Technology in Lublin and in
       ></picture>
       <br /><strong>Express</strong>
     </td>
-    <td align="center" height="108" width="108">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"
-      width="48"
-      height="48"
-      alt="MongoDB">
-      <br /><strong>MongoDB</strong>
-    </td>
   </tr>
   <tr>
-  <td align="center" height="108" width="108">
+    <td align="center" height="108" width="108">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"
+        width="48"
+        height="48"
+        alt="MongoDB">
+        <br /><strong>MongoDB</strong>
+      </td>
+    <td align="center" height="108" width="108">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"
         width="48"
         height="48"
@@ -142,16 +152,6 @@ Currently I learn Computer Sciences at University of Technology in Lublin and in
       <strong style='font-size: 20px'>Scratching the Surface</strong>
       <i>aka. Learning</i>
     </td>
-    <td align="center" height="108" width="108">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="./icons/next-official-dark.svg">
-          <img src="./icons/next-official-dark.svg"
-          width="48"
-          height="48"
-          alt="Next.js">
-        </picture>
-        <br /><strong>Next.js</strong>
-      </td>
     <td align="center" height="108" width="108">
       <img src="./icons/rust-dark.svg"
       width="48"
