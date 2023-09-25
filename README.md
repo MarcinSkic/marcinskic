@@ -369,18 +369,46 @@ Currently I learn Computer Sciences at University of Technology in Lublin and in
       <strong style='font-size: 20px'>Want to learn</strong>
     </td>
     <td align="center" height="108" width="108">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg"
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg"
       width="48"
       height="48"
-      alt="Dart">
-      <br /><strong>Dart</strong>
+      alt="Svelte">
+      <br /><strong>Svelte</strong>
     </td>
     <td align="center" height="108" width="108">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg"
+      <img src="./icons/solid.svg"
       width="48"
       height="48"
-      alt="Flutter">
-      <br /><strong>Flutter</strong>
+      alt="Solid">
+      <br /><strong>Solid</strong>
+    </td>
+    <td align="center" height="108" width="108">
+      <img src="./icons/tauri.svg"
+      width="48"
+      height="48"
+      alt="Tauri">
+      <br /><strong>Tauri</strong>
+    </td>
+    <td align="center" height="108" width="108">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elixir/elixir-original.svg"
+      width="48"
+      height="48"
+      alt="Elixir">
+      <br /><strong>Elixir</strong>
+    </td>
+    <td align="center" height="108" width="108">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/phoenix/phoenix-original.svg"
+      width="48"
+      height="48"
+      alt="Phoenix">
+      <br /><strong>Phoenix</strong>
+    </td>
+    <td align="center" height="108" width="108">
+      <img src="./icons/bevy.png"
+      width="48"
+      height="48"
+      alt="Bevy">
+      <br /><strong>Bevy</strong>
     </td>
     <td align="center" height="108" width="108">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg"
