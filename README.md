@@ -159,6 +159,27 @@ Currently I learn Computer Sciences at University of Technology in Lublin and in
       alt="Rust">
       <br /><strong>Rust</strong>
     </td>
+    <td align="center" height="108" width="108">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg"
+      width="48"
+      height="48"
+      alt=".NET Core">
+      <br /><strong>.NET Core</strong>
+    </td>
+    <td align="center" height="108" width="108">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg"
+      width="48"
+      height="48"
+      alt=".NET">
+      <br /><strong>.NET</strong>
+    </td>
+    <td align="center" height="108" width="108">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/salesforce/salesforce-original.svg"
+      width="48"
+      height="48"
+      alt="Salesforce">
+      <br /><strong>Salesforce</strong>
+    </td>
   </tr>
   <tr>
     <td rowspan=4 align="center" height="108" width="108">
