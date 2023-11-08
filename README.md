@@ -160,6 +160,13 @@ Currently I learn Computer Sciences at University of Technology in Lublin and in
       <br /><strong>Rust</strong>
     </td>
     <td align="center" height="108" width="108">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg"
+      width="48"
+      height="48"
+      alt="Spring">
+      <br /><strong>Spring</strong>
+    </td>
+    <td align="center" height="108" width="108">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg"
       width="48"
       height="48"
