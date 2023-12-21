@@ -15,6 +15,7 @@ Currently I learn Computer Sciences at University of Technology in Lublin and in
   width="40"
   height="40"
   alt="JS"
+  align="left"
   style="padding: 0 10px 10px 0">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"
   width="40"
