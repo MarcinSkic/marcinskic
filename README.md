@@ -1,8 +1,34 @@
-# Hi there 👋
+# Hey 👋
 
 Currently I learn Computer Sciences at University of Technology in Lublin and in freetime I do "The Odin Project" curriculum which I hope to finish soon&trade;.
 
-# Technologies
+## Experienced with
+
+<img 
+  src="https://img.shields.io/badge/Languages-blue"
+  width="140"
+  height="40"
+  alt="JS"
+  align="left"
+  style="padding: 0 20px 10px 0">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"
+  width="40"
+  height="40"
+  alt="JS"
+  align="left"
+  style="padding: 0 20px 10px 0">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"
+  width="40"
+  height="40"
+  alt="TS"
+  style="padding: 0 20px 10px 0">
+
+<img 
+  src="https://img.shields.io/badge/Technologies-blue"
+  width="160"
+  height="40"
+  alt="JS"
+  align="left">
 
 <table>
   <tr>
