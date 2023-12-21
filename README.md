@@ -84,16 +84,9 @@ Currently I learn Computer Sciences at University of Technology in Lublin and in
     width="40"
     height="40"
     alt="Unity"
+    align="left"
     style="padding: 0 20px 16px 0">
 </picture>
-
-<img 
-  src="https://img.shields.io/badge/Tools-%231f2937"
-  width="80"
-  height="40"
-  alt="Tools"
-  align="left"
-  style="padding: 0 20px 16px 0">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"
   width="40"
   height="40"
@@ -117,6 +110,7 @@ Currently I learn Computer Sciences at University of Technology in Lublin and in
     alt="LaTeX"
     style="padding: 0 20px 16px 0">
 </picture>
+
 
 ## Beginner and/or Learning
 <img 
@@ -179,13 +173,6 @@ Currently I learn Computer Sciences at University of Technology in Lublin and in
   width="40"
   height="40"
   alt="Spring"
-  style="padding: 0 20px 16px 0">
-
-<img 
-  src="https://img.shields.io/badge/Tools-%231f2937"
-  width="80"
-  height="40"
-  alt="Tools"
   align="left"
   style="padding: 0 20px 16px 0">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"
@@ -193,6 +180,7 @@ Currently I learn Computer Sciences at University of Technology in Lublin and in
   height="40"
   alt="Docker"
   style="padding: 0 20px 16px 0">
+
 
 ## To Learn
 
