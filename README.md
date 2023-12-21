@@ -5,30 +5,100 @@ Currently I learn Computer Sciences at University of Technology in Lublin and in
 ## Experienced with
 
 <img 
-  src="https://img.shields.io/badge/Languages-blue"
+  src="https://img.shields.io/badge/Languages-%231f2937"
   width="140"
   height="40"
-  alt="JS"
+  alt="Languages"
   align="left"
   style="padding: 0 20px 10px 0">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"
   width="40"
   height="40"
   alt="JS"
-  align="left"
-  style="padding: 0 20px 10px 0">
+  style="padding: 0 10px 10px 0">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"
   width="40"
   height="40"
   alt="TS"
-  style="padding: 0 20px 10px 0">
+  style="padding: 0 10px 10px 0">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"
+  width="40"
+  height="40"
+  alt="HTML"
+  style="padding: 0 10px 10px 0">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"
+  width="40"
+  height="40"
+  alt="CSS"
+  style="padding: 0 10px 10px 0">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg"
+  width="40"
+  height="40"
+  alt="SCSS"
+  style="padding: 0 10px 10px 0">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"
+  width="40"
+  height="40"
+  alt="C#"
+  style="padding: 0 10px 10px 0">
 
 <img 
-  src="https://img.shields.io/badge/Technologies-blue"
+  src="https://img.shields.io/badge/Technologies-%231f2937"
   width="160"
   height="40"
-  alt="JS"
-  align="left">
+  alt="Technologies"
+  align="left"
+  style="padding: 0 20px 10px 0">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
+  width="40"
+  height="40"
+  alt="React"
+  style="padding: 0 10px 10px 0">
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./icons/next-official-dark.svg">
+  <img src="./icons/next-official-dark.svg"
+  width="40"
+  height="40"
+  alt="Next.js"
+  style="padding: 0 10px 10px 0">
+</picture>
+<picture> 
+    <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/33003089/227041204-71a593b5-395e-4de9-82ff-21f6113c2c8a.svg">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" 
+    width="40" 
+    height="40"
+    alt="Express"
+    style="padding: 0 10px 10px 0">
+</picture>
+
+<img 
+  src="https://img.shields.io/badge/Tools-%231f2937"
+  width="80"
+  height="40"
+  alt="Tools"
+  align="left"
+  style="padding: 0 20px 10px 0">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"
+  width="40"
+  height="40"
+  alt="Git"
+  style="padding: 0 10px 10px 0">
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./icons/github-dark.svg">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"
+    width="40"
+    height="40"
+    alt="Github"
+    style="padding: 0 10px 10px 0">
+</picture>
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./icons/latex-dark.svg">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg"
+    width="40"
+    height="40"
+    alt="LaTeX"
+    style="padding: 0 10px 10px 0">
+</picture>
 
 <table>
   <tr>
