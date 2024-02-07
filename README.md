@@ -157,6 +157,12 @@ Currently I learn Computer Sciences at University of Technology in Lublin and in
   alt="Svelte"
   align="left"
   style="padding: 0 20px 16px 0">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg"
+  width="40"
+  height="40"
+  alt="TailwindCSS"
+  align="left"
+  style="padding: 0 20px 16px 0">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"
   width="40"
   height="40"
