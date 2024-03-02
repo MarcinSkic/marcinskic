@@ -70,8 +70,10 @@ Currently I learn Computer Sciences at University of Technology in Lublin and in
   alt="Lang & Tech"
   align="left"
   style="padding: 0 20px 16px 0">
-[<img align="left" width="40" height="40" alt="SolidJS" src="https://api.iconify.design/devicon:solidjs.svg" style="padding: 0 20px 16px 0">](https://www.solidjs.com "SolidJS")
+[<img align="left" width="60" height="40" alt="GO" src="https://api.iconify.design/logos:go.svg" style="padding: 0 20px 16px 0">](https://go.dev "GO")
+[<img align="left" width="40" height="40" alt="Godot" src="https://api.iconify.design/devicon:godot.svg" style="padding: 0 20px 16px 0">](https://godotengine.org "Godot")
 [<img align="left" width="40" height="40" alt="Tauri" src="https://api.iconify.design/devicon:tauri.svg" style="padding: 0 20px 16px 0">](https://tauri.app "Tauri")
+[<img align="left" width="40" height="40" alt="SolidJS" src="https://api.iconify.design/devicon:solidjs.svg" style="padding: 0 20px 16px 0">](https://www.solidjs.com "SolidJS")
 [<img align="left" width="40" height="40" alt="Elixir" src="https://api.iconify.design/devicon:elixir.svg" style="padding: 0 20px 16px 0">](https://elixir-lang.org "Elixir")
 [<img align="left" width="40" height="40" alt="Phoenix" src="https://api.iconify.design/devicon:phoenix.svg" style="padding: 0 20px 16px 0">](https://www.phoenixframework.org "Phoenix")
 [<img align="left" width="40" height="40" alt="Bevy" src="https://api.iconify.design/skill-icons:bevy-dark.svg" style="padding: 0 20px 16px 0">](https://bevyengine.org "Bevy")
