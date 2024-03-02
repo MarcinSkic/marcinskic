@@ -1,6 +1,8 @@
-# Hey 👋
+<div align="center">
 
-Currently I learn Computer Sciences at University of Technology in Lublin and in freetime I do "The Odin Project" curriculum which I hope to finish soon&trade;.
+[<img width="1024" alt="TheWitness" src="./assets/theWitness.gif">](https://store.steampowered.com/app/210970/The_Witness/ "The Witness")
+
+</div>
 
 ## Experienced with
 
@@ -78,3 +80,9 @@ Currently I learn Computer Sciences at University of Technology in Lublin and in
 [<img align="left" width="40" height="40" alt="Phoenix" src="https://api.iconify.design/devicon:phoenix.svg" style="padding: 0 20px 16px 0">](https://www.phoenixframework.org "Phoenix")
 [<img align="left" width="40" height="40" alt="Bevy" src="https://api.iconify.design/skill-icons:bevy-dark.svg" style="padding: 0 20px 16px 0">](https://bevyengine.org "Bevy")
 [<img width="40" height="40" alt="Arduino" src="https://api.iconify.design/devicon:arduino.svg" style="padding: 0 20px 16px 0">](https://www.arduino.cc "Arduino")
+
+<div align="center"> 
+
+### My best projects 👇
+
+</div>
