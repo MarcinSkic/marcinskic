@@ -11,41 +11,12 @@ Currently I learn Computer Sciences at University of Technology in Lublin and in
   alt="Languages"
   align="left"
   style="padding: 0 20px 16px 0">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"
-  width="40"
-  height="40"
-  alt="JS"
-  align="left"
-  style="padding: 0 20px 16px 0">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"
-  width="40"
-  height="40"
-  alt="TS"
-  align="left"
-  style="padding: 0 20px 16px 0">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"
-  width="40"
-  height="40"
-  alt="HTML"
-  align="left"
-  style="padding: 0 20px 16px 0">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"
-  width="40"
-  height="40"
-  alt="CSS"
-  align="left"
-  style="padding: 0 20px 16px 0">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg"
-  width="40"
-  height="40"
-  alt="SCSS"
-  align="left"
-  style="padding: 0 20px 16px 0">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"
-  width="40"
-  height="40"
-  alt="C#"
-  style="padding: 0 20px 16px 0">
+[<img align="left" width="40" height="40" alt="Javascript" src="https://api.iconify.design/devicon:javascript.svg" style="padding: 0 20px 16px 0">](https://en.wikipedia.org/wiki/JavaScript "Javascript")
+[<img align="left" width="40" height="40" alt="Typescript" src="https://api.iconify.design/devicon:typescript.svg" style="padding: 0 20px 16px 0">](https://www.typescriptlang.org "Typescript")
+[<img align="left" width="40" height="40" alt="HTML" src="https://api.iconify.design/devicon:html5.svg" style="padding: 0 20px 16px 0">](https://en.wikipedia.org/wiki/HTML "HTML")
+[<img align="left" width="40" height="40" alt="CSS" src="https://api.iconify.design/devicon:css3.svg" style="padding: 0 20px 16px 0">](https://en.wikipedia.org/wiki/CSS "CSS")
+[<img align="left" width="40" height="40" alt="Sass" src="https://api.iconify.design/devicon:sass.svg" style="padding: 0 20px 16px 0">](https://sass-lang.com "Sass")
+[<img width="40" height="40" alt="C#" src="https://api.iconify.design/devicon:csharp.svg" style="padding: 0 20px 16px 0">](https://learn.microsoft.com/pl-pl/dotnet/csharp/ "C#")
 
 <img 
   src="https://img.shields.io/badge/Technologies-%231f2937"
@@ -54,62 +25,13 @@ Currently I learn Computer Sciences at University of Technology in Lublin and in
   alt="Technologies"
   align="left"
   style="padding: 0 20px 16px 0">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
-  width="40"
-  height="40"
-  alt="React"
-  align="left"
-  style="padding: 0 20px 16px 0">
-<picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./icons/next-official-dark.svg">
-  <img src="./icons/next-official-dark.svg"
-  width="40"
-  height="40"
-  alt="Next.js"
-  align="left"
-  style="padding: 0 20px 16px 0">
-</picture>
-<picture> 
-    <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/33003089/227041204-71a593b5-395e-4de9-82ff-21f6113c2c8a.svg">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" 
-    width="40" 
-    height="40"
-    alt="Express"
-    align="left"
-    style="padding: 0 20px 16px 0">
-</picture>
-<picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./icons/unity-dark.svg">
-    <img alt="Unity" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg"
-    width="40"
-    height="40"
-    alt="Unity"
-    align="left"
-    style="padding: 0 20px 16px 0">
-</picture>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"
-  width="40"
-  height="40"
-  alt="Git"
-  align="left"
-  style="padding: 0 20px 16px 0">
-<picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./icons/github-dark.svg">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"
-    width="40"
-    height="40"
-    alt="Github"
-    align="left"
-    style="padding: 0 20px 16px 0">
-</picture>
-<picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./icons/latex-dark.svg">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg"
-    width="40"
-    height="40"
-    alt="LaTeX"
-    style="padding: 0 20px 16px 0">
-</picture>
+[<img align="left" width="40" height="40" alt="React" src="https://api.iconify.design/devicon:react.svg" style="padding: 0 20px 16px 0">](https://react.dev "React")
+[<img align="left" width="40" height="40" alt="Next.js" src="https://api.iconify.design/logos:nextjs-icon.svg" style="padding: 0 20px 16px 0">](https://nextjs.org "Next.js")
+[<picture><source media="(prefers-color-scheme: light)" srcset="https://api.iconify.design/simple-icons:express.svg?color=%23000000" /><img align="left" width="40" height="40" alt="Express.js" src="https://api.iconify.design/simple-icons:express.svg?color=%23ffffff" style="padding: 0 20px 16px 0"/></picture>](https://expressjs.com "Express.js")
+[<picture><source media="(prefers-color-scheme: light)" srcset="https://api.iconify.design/bi:unity.svg?color=%23000000" /><img align="left" width="40" height="40" alt="Unity" src="https://api.iconify.design/bi:unity.svg?color=%23ffffff" style="padding: 0 20px 16px 0"/></picture>](https://unity.com "Unity")
+[<img align="left" width="40" height="40" alt="Git" src="https://api.iconify.design/devicon:git.svg" style="padding: 0 20px 16px 0">](https://git-scm.com "Git")
+[<picture><source media="(prefers-color-scheme: light)" srcset="https://api.iconify.design/simple-icons:github.svg?color=%23000000" /><img align="left" width="40" height="40" alt="Github" src="https://api.iconify.design/simple-icons:github.svg?color=%23ffffff" style="padding: 0 20px 16px 0"/></picture>](https://github.com "Github")
+[<img width="40" height="40" alt="Latex" src="https://api.iconify.design/cib:latex.svg?color=%23088484" style="padding: 0 20px 16px 0">](https://www.latex-project.org "Latex")
 
 
 ## Beginner and/or Learning
@@ -120,29 +42,10 @@ Currently I learn Computer Sciences at University of Technology in Lublin and in
   alt="Languages"
   align="left"
   style="padding: 0 20px 16px 0">
-<img src="./icons/rust-dark.svg"
-  width="40"
-  height="40"
-  alt="Rust"
-  align="left"
-  style="padding: 0 20px 16px 0">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"
-  width="40"
-  height="40"
-  alt="Python"
-  align="left"
-  style="padding: 0 20px 16px 0">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"
-  width="40"
-  height="40"
-  alt="Java"
-  align="left"
-  style="padding: 0 20px 16px 0">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg"
-  width="40"
-  height="40"
-  alt="Kotlin"
-  style="padding: 0 20px 16px 0">
+[<img align="left" width="40" height="40" alt="Rust" src="https://api.iconify.design/vscode-icons:file-type-rust.svg" style="padding: 0 20px 16px 0">](https://www.rust-lang.org "Rust")
+[<img align="left" width="40" height="40" alt="Python" src="https://api.iconify.design/logos:python.svg" style="padding: 0 20px 16px 0">](https://www.python.org "Python")
+[<img align="left" width="40" height="40" alt="Java" src="https://api.iconify.design/logos:java.svg" style="padding: 0 20px 16px 0">](https://www.java.com "Java")
+[<img width="40" height="40" alt="Kotlin" src="https://api.iconify.design/devicon:kotlin.svg" style="padding: 0 20px 16px 0">](https://kotlinlang.org "Kotlin")
 
 <img 
   src="https://img.shields.io/badge/Technologies-%231f2937"
@@ -151,35 +54,11 @@ Currently I learn Computer Sciences at University of Technology in Lublin and in
   alt="Technologies"
   align="left"
   style="padding: 0 20px 16px 0">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg"
-  width="40"
-  height="40"
-  alt="Svelte"
-  align="left"
-  style="padding: 0 20px 16px 0">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"
-  width="40"
-  height="40"
-  alt="MongoDB"
-  align="left"
-  style="padding: 0 20px 16px 0">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/neo4j/neo4j-original.svg"
-  width="40"
-  height="40"
-  alt="Neo4j"
-  align="left"
-  style="padding: 0 20px 16px 0">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg"
-  width="40"
-  height="40"
-  alt="Spring"
-  align="left"
-  style="padding: 0 20px 16px 0">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"
-  width="40"
-  height="40"
-  alt="Docker"
-  style="padding: 0 20px 16px 0">
+[<img align="left" width="40" height="40" alt="Svelte" src="https://api.iconify.design/devicon:svelte.svg" style="padding: 0 20px 16px 0">](https://svelte.dev "Svelte")
+[<img align="left" width="40" height="40" alt="MongoDB" src="https://api.iconify.design/devicon:mongodb.svg" style="padding: 0 20px 16px 0">](https://mongodb.com "MongoDB")
+[<img align="left" width="40" height="40" alt="Neo4j" src="https://api.iconify.design/devicon:neo4j.svg" style="padding: 0 20px 16px 0">](https://neo4j.com "Neo4j")
+[<img align="left" width="40" height="40" alt="Spring" src="https://api.iconify.design/logos:spring-icon.svg" style="padding: 0 20px 16px 0">](https://spring.io "Spring")
+[<img width="40" height="40" alt="Docker" src="https://api.iconify.design/logos:docker-icon.svg" style="padding: 0 20px 16px 0">](https://www.docker.com "Docker")
 
 
 ## To Learn
@@ -191,38 +70,9 @@ Currently I learn Computer Sciences at University of Technology in Lublin and in
   alt="Lang & Tech"
   align="left"
   style="padding: 0 20px 16px 0">
-<img src="./icons/solid.svg"
-  width="40"
-  height="40"
-  alt="Solid"
-  align="left"
-  style="padding: 0 20px 16px 0">
-<img src="./icons/tauri.svg"
-  width="40"
-  height="40"
-  alt="Tauri"
-  align="left"
-  style="padding: 0 20px 16px 0">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elixir/elixir-original.svg"
-  width="40"
-  height="40"
-  alt="Elixir"
-  align="left"
-  style="padding: 0 20px 16px 0">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/phoenix/phoenix-original.svg"
-  width="40"
-  height="40"
-  alt="Phoenix"
-  align="left"
-  style="padding: 0 20px 16px 0">
-<img src="./icons/bevy.png"
-  width="40"
-  height="40"
-  alt="Bevy"
-  align="left"
-  style="padding: 0 20px 16px 0">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg"
-  width="40"
-  height="40"
-  alt="Bevy"
-  style="padding: 0 20px 16px 0">
+[<img align="left" width="40" height="40" alt="SolidJS" src="https://api.iconify.design/devicon:solidjs.svg" style="padding: 0 20px 16px 0">](https://www.solidjs.com "SolidJS")
+[<img align="left" width="40" height="40" alt="Tauri" src="https://api.iconify.design/devicon:tauri.svg" style="padding: 0 20px 16px 0">](https://tauri.app "Tauri")
+[<img align="left" width="40" height="40" alt="Elixir" src="https://api.iconify.design/devicon:elixir.svg" style="padding: 0 20px 16px 0">](https://elixir-lang.org "Elixir")
+[<img align="left" width="40" height="40" alt="Phoenix" src="https://api.iconify.design/devicon:phoenix.svg" style="padding: 0 20px 16px 0">](https://www.phoenixframework.org "Phoenix")
+[<img align="left" width="40" height="40" alt="Bevy" src="https://api.iconify.design/skill-icons:bevy-dark.svg" style="padding: 0 20px 16px 0">](https://bevyengine.org "Bevy")
+[<img width="40" height="40" alt="Arduino" src="https://api.iconify.design/devicon:arduino.svg" style="padding: 0 20px 16px 0">](https://www.arduino.cc "Arduino")
