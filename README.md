@@ -1,6 +1,6 @@
 <div align="center">
 
-[<img width="1024" alt="TheWitness" src="./assets/theWitness.gif">](https://store.steampowered.com/app/210970/The_Witness/ "The Witness")
+[<img width="1024" alt="Train GIF" src="./assets/baner.gif">](https://www.newgrounds.com/art/view/alexthetrain-1/i-like-trains)
 
 </div>
 
