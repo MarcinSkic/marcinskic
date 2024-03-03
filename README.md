@@ -73,6 +73,7 @@
   alt="Lang & Tech"
   align="left"
   style="padding: 0 20px 16px 0">
+[<img align="left" width="40" height="40" alt=".NET" src="https://api.iconify.design/logos:dotnet.svg" style="padding: 0 20px 16px 0">](https://learn.microsoft.com/en-us/dotnet/ ".NET")
 [<img align="left" width="60" height="40" alt="GO" src="https://api.iconify.design/logos:go.svg" style="padding: 0 20px 16px 0">](https://go.dev "GO")
 [<img align="left" width="40" height="40" alt="Godot" src="https://api.iconify.design/devicon:godot.svg" style="padding: 0 20px 16px 0">](https://godotengine.org "Godot")
 [<img align="left" width="40" height="40" alt="Tauri" src="https://api.iconify.design/devicon:tauri.svg" style="padding: 0 20px 16px 0">](https://tauri.app "Tauri")
