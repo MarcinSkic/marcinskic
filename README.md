@@ -57,6 +57,7 @@
   align="left"
   style="padding: 0 20px 16px 0">
 [<img align="left" width="40" height="40" alt="Svelte" src="https://api.iconify.design/devicon:svelte.svg" style="padding: 0 20px 16px 0">](https://svelte.dev "Svelte")
+[<img align="left" width="40" height="40" alt="TailwindCSS" src="https://api.iconify.design/devicon:tailwindcss.svg" style="padding: 0 20px 16px 0">](https://tailwindcss.com "TailwindCSS")
 [<img align="left" width="40" height="40" alt="MongoDB" src="https://api.iconify.design/devicon:mongodb.svg" style="padding: 0 20px 16px 0">](https://mongodb.com "MongoDB")
 [<img align="left" width="40" height="40" alt="Neo4j" src="https://api.iconify.design/devicon:neo4j.svg" style="padding: 0 20px 16px 0">](https://neo4j.com "Neo4j")
 [<img align="left" width="40" height="40" alt="Spring" src="https://api.iconify.design/logos:spring-icon.svg" style="padding: 0 20px 16px 0">](https://spring.io "Spring")
