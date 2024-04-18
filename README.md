@@ -34,6 +34,7 @@
 [<img align="left" width="40" height="40" alt="React" src="https://api.iconify.design/devicon:react.svg" style="padding: 0 20px 16px 0">](https://react.dev "React")
 [<img align="left" width="40" height="40" alt="Next.js" src="https://api.iconify.design/logos:nextjs-icon.svg" style="padding: 0 20px 16px 0">](https://nextjs.org "Next.js")
 [<picture><source media="(prefers-color-scheme: light)" srcset="https://api.iconify.design/simple-icons:express.svg?color=%23000000" /><img align="left" width="40" height="40" alt="Express.js" src="https://api.iconify.design/simple-icons:express.svg?color=%23ffffff" style="padding: 0 20px 16px 0"/></picture>](https://expressjs.com "Express.js")
+[<img align="left" width="40" height="40" alt="TailwindCSS" src="https://api.iconify.design/devicon:tailwindcss.svg" style="padding: 0 20px 16px 0">](https://tailwindcss.com "TailwindCSS")
 [<picture><source media="(prefers-color-scheme: light)" srcset="https://api.iconify.design/bi:unity.svg?color=%23000000" /><img align="left" width="40" height="40" alt="Unity" src="https://api.iconify.design/bi:unity.svg?color=%23ffffff" style="padding: 0 20px 16px 0"/></picture>](https://unity.com "Unity")
 [<img align="left" width="40" height="40" alt="Git" src="https://api.iconify.design/devicon:git.svg" style="padding: 0 20px 16px 0">](https://git-scm.com "Git")
 [<picture><source media="(prefers-color-scheme: light)" srcset="https://api.iconify.design/simple-icons:github.svg?color=%23000000" /><img align="left" width="40" height="40" alt="Github" src="https://api.iconify.design/simple-icons:github.svg?color=%23ffffff" style="padding: 0 20px 16px 0"/></picture>](https://github.com "Github")
@@ -61,7 +62,6 @@
   align="left"
   style="padding: 0 20px 16px 0">
 [<img align="left" width="40" height="40" alt="Svelte" src="https://api.iconify.design/devicon:svelte.svg" style="padding: 0 20px 16px 0">](https://svelte.dev "Svelte")
-[<img align="left" width="40" height="40" alt="TailwindCSS" src="https://api.iconify.design/devicon:tailwindcss.svg" style="padding: 0 20px 16px 0">](https://tailwindcss.com "TailwindCSS")
 [<img align="left" width="40" height="40" alt="MongoDB" src="https://api.iconify.design/devicon:mongodb.svg" style="padding: 0 20px 16px 0">](https://mongodb.com "MongoDB")
 [<img align="left" width="40" height="40" alt="Neo4j" src="https://api.iconify.design/devicon:neo4j.svg" style="padding: 0 20px 16px 0">](https://neo4j.com "Neo4j")
 [<img align="left" width="40" height="40" alt="Spring" src="https://api.iconify.design/logos:spring-icon.svg" style="padding: 0 20px 16px 0">](https://spring.io "Spring")
