@@ -60,6 +60,8 @@
   alt="Technologies"
   align="left"
   style="padding: 0 20px 16px 0">
+[<img align="left" width="40" height="40" alt="Vue.js" src="https://api.iconify.design/devicon:vuejs.svg" style="padding: 0 20px 16px 0"/>](https://vuejs.org "Vue.js")
+[<img align="left" width="40" height="40" alt="shadcn-vue" src="https://api.iconify.design/simple-icons:shadcnui.svg?color=%2341b883" style="padding: 0 20px 16px 0"/>](https://www.shadcn-vue.com "shadcn-vue")
 [<img align="left" width="40" height="40" alt="Svelte" src="https://api.iconify.design/devicon:svelte.svg" style="padding: 0 20px 16px 0">](https://svelte.dev "Svelte")
 [<picture><source media="(prefers-color-scheme: light)" srcset="https://api.iconify.design/simple-icons:express.svg?color=%23000000" /><img align="left" width="40" height="40" alt="Express.js" src="https://api.iconify.design/simple-icons:express.svg?color=%23ffffff" style="padding: 0 20px 16px 0"/></picture>](https://expressjs.com "Express.js")
 [<img align="left" width="40" height="40" alt="MongoDB" src="https://api.iconify.design/devicon:mongodb.svg" style="padding: 0 20px 16px 0">](https://mongodb.com "MongoDB")
