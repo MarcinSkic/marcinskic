@@ -4,6 +4,10 @@
 
 </div>
 
+👇 Free time programming 
+
+[![wakatime](https://wakatime.com/badge/user/018b0ba7-22f9-4c17-bb49-ab8b3549faaf.svg)](https://wakatime.com/@018b0ba7-22f9-4c17-bb49-ab8b3549faaf)
+
 ## Experienced with
 
 <img 
