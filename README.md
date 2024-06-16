@@ -62,6 +62,7 @@
   style="padding: 0 20px 16px 0">
 [<img align="left" width="40" height="40" alt="Vue.js" src="https://api.iconify.design/devicon:vuejs.svg" style="padding: 0 20px 16px 0"/>](https://vuejs.org "Vue.js")
 [<img align="left" width="40" height="40" alt="shadcn-vue" src="https://api.iconify.design/simple-icons:shadcnui.svg?color=%2341b883" style="padding: 0 20px 16px 0"/>](https://www.shadcn-vue.com "shadcn-vue")
+[<img align="left" width="40" height="40" alt=".NET" src="https://api.iconify.design/logos:dotnet.svg" style="padding: 0 20px 16px 0">](https://learn.microsoft.com/en-us/dotnet/ ".NET")
 [<img align="left" width="40" height="40" alt="Svelte" src="https://api.iconify.design/devicon:svelte.svg" style="padding: 0 20px 16px 0">](https://svelte.dev "Svelte")
 [<picture><source media="(prefers-color-scheme: light)" srcset="https://api.iconify.design/simple-icons:express.svg?color=%23000000" /><img align="left" width="40" height="40" alt="Express.js" src="https://api.iconify.design/simple-icons:express.svg?color=%23ffffff" style="padding: 0 20px 16px 0"/></picture>](https://expressjs.com "Express.js")
 [<img align="left" width="40" height="40" alt="MongoDB" src="https://api.iconify.design/devicon:mongodb.svg" style="padding: 0 20px 16px 0">](https://mongodb.com "MongoDB")
@@ -79,7 +80,6 @@
   alt="Lang & Tech"
   align="left"
   style="padding: 0 20px 16px 0">
-[<img align="left" width="40" height="40" alt=".NET" src="https://api.iconify.design/logos:dotnet.svg" style="padding: 0 20px 16px 0">](https://learn.microsoft.com/en-us/dotnet/ ".NET")
 [<img align="left" width="60" height="40" alt="GO" src="https://api.iconify.design/logos:go.svg" style="padding: 0 20px 16px 0">](https://go.dev "GO")
 [<img align="left" width="40" height="40" alt="Godot" src="https://api.iconify.design/devicon:godot.svg" style="padding: 0 20px 16px 0">](https://godotengine.org "Godot")
 [<img align="left" width="40" height="40" alt="Tauri" src="https://api.iconify.design/devicon:tauri.svg" style="padding: 0 20px 16px 0">](https://tauri.app "Tauri")
