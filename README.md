@@ -60,6 +60,7 @@
   alt="Technologies"
   align="left"
   style="padding: 0 20px 16px 0">
+[<img align="left" width="40" height="40" alt="Angular" src="https://api.iconify.design/devicon:angular.svg" style="padding: 0 20px 16px 0"/>](https://angular.dev/ "Angular")
 [<img align="left" width="40" height="40" alt="Vue.js" src="https://api.iconify.design/devicon:vuejs.svg" style="padding: 0 20px 16px 0"/>](https://vuejs.org "Vue.js")
 [<img align="left" width="40" height="40" alt="shadcn-vue" src="https://api.iconify.design/simple-icons:shadcnui.svg?color=%2341b883" style="padding: 0 20px 16px 0"/>](https://www.shadcn-vue.com "shadcn-vue")
 [<img align="left" width="40" height="40" alt=".NET" src="https://api.iconify.design/logos:dotnet.svg" style="padding: 0 20px 16px 0">](https://learn.microsoft.com/en-us/dotnet/ ".NET")
