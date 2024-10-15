@@ -4,9 +4,9 @@
 
 </div>
 
-👇 Time spent on personal projects (since 2023-10-07)
-
-[![wakatime](https://wakatime.com/badge/user/018b0ba7-22f9-4c17-bb49-ab8b3549faaf.svg)](https://wakatime.com/@018b0ba7-22f9-4c17-bb49-ab8b3549faaf)
+[<img align="left" alt="wakatime" src="https://wakatime.com/badge/user/018b0ba7-22f9-4c17-bb49-ab8b3549faaf.svg" style="padding: 0 20px 16px 0">](https://wakatime.com/@018b0ba7-22f9-4c17-bb49-ab8b3549faaf)
+[<img alt="current project" src="https://img.shields.io/badge/current_project-harmonify-%230d9488" style="padding: 0 20px 16px 0">](https://github.com/kaczkadevteam/harmonify)
+[<img alt="blog status" src="https://img.shields.io/badge/newest_post-intro_to_time_tracking-%2322c55e" style="padding: 0 20px 16px 0">](https://skic.me/blog/intro-to-time-tracking)
 
 ## Experienced with
 
@@ -61,9 +61,9 @@
   align="left"
   style="padding: 0 20px 16px 0">
 [<img align="left" width="40" height="40" alt="Angular" src="https://api.iconify.design/devicon:angular.svg" style="padding: 0 20px 16px 0"/>](https://angular.dev/ "Angular")
+[<img align="left" width="40" height="40" alt=".NET" src="https://api.iconify.design/logos:dotnet.svg" style="padding: 0 20px 16px 0">](https://learn.microsoft.com/en-us/dotnet/ ".NET")
 [<img align="left" width="40" height="40" alt="Vue.js" src="https://api.iconify.design/devicon:vuejs.svg" style="padding: 0 20px 16px 0"/>](https://vuejs.org "Vue.js")
 [<img align="left" width="40" height="40" alt="shadcn-vue" src="https://api.iconify.design/simple-icons:shadcnui.svg?color=%2341b883" style="padding: 0 20px 16px 0"/>](https://www.shadcn-vue.com "shadcn-vue")
-[<img align="left" width="40" height="40" alt=".NET" src="https://api.iconify.design/logos:dotnet.svg" style="padding: 0 20px 16px 0">](https://learn.microsoft.com/en-us/dotnet/ ".NET")
 [<img align="left" width="40" height="40" alt="Svelte" src="https://api.iconify.design/devicon:svelte.svg" style="padding: 0 20px 16px 0">](https://svelte.dev "Svelte")
 [<picture><source media="(prefers-color-scheme: light)" srcset="https://api.iconify.design/simple-icons:express.svg?color=%23000000" /><img align="left" width="40" height="40" alt="Express.js" src="https://api.iconify.design/simple-icons:express.svg?color=%23ffffff" style="padding: 0 20px 16px 0"/></picture>](https://expressjs.com "Express.js")
 [<img align="left" width="40" height="40" alt="MongoDB" src="https://api.iconify.design/devicon:mongodb.svg" style="padding: 0 20px 16px 0">](https://mongodb.com "MongoDB")
