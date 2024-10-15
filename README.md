@@ -5,7 +5,7 @@
 </div>
 
 [<img align="left" alt="wakatime" src="https://wakatime.com/badge/user/018b0ba7-22f9-4c17-bb49-ab8b3549faaf.svg" style="padding: 0 20px 16px 0">](https://wakatime.com/@018b0ba7-22f9-4c17-bb49-ab8b3549faaf)
-[<img alt="current project" src="https://img.shields.io/badge/current_project-harmonify-%230d9488" style="padding: 0 20px 16px 0">](https://github.com/kaczkadevteam/harmonify)
+[<img align="left" alt="current project" src="https://img.shields.io/badge/current_project-harmonify-%230d9488" style="padding: 0 20px 16px 0">](https://github.com/kaczkadevteam/harmonify)
 [<img alt="blog status" src="https://img.shields.io/badge/newest_post-intro_to_time_tracking-%2322c55e" style="padding: 0 20px 16px 0">](https://skic.me/blog/intro-to-time-tracking)
 
 ## Experienced with
