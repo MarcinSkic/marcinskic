@@ -5,8 +5,7 @@
 </div>
 
 [<img align="left" alt="wakatime" src="https://wakatime.com/badge/user/018b0ba7-22f9-4c17-bb49-ab8b3549faaf.svg" style="padding: 0 20px 16px 0">](https://wakatime.com/@018b0ba7-22f9-4c17-bb49-ab8b3549faaf)
-[<img align="left" alt="current project" src="https://img.shields.io/badge/current_project-harmonify-%230d9488" style="padding: 0 20px 16px 0">](https://github.com/kaczkadevteam/harmonify)
-[<img alt="blog status" src="https://img.shields.io/badge/newest_post-intro_to_time_tracking-%2322c55e" style="padding: 0 20px 16px 0">](https://skic.me/blog/intro-to-time-tracking)
+[<img alt="current project" src="https://img.shields.io/badge/current_project-harmonify-%230d9488" style="padding: 0 20px 16px 0">](https://github.com/kaczkadevteam/harmonify)
 
 ## Using
 
@@ -35,7 +34,7 @@
 [<img align="left" width="40" height="40" alt="Angular" src="https://api.iconify.design/devicon:angular.svg" style="padding: 0 20px 16px 0"/>](https://angular.dev/ "Angular")
 [<img align="left" width="40" height="40" alt="TailwindCSS" src="https://api.iconify.design/devicon:tailwindcss.svg" style="padding: 0 20px 16px 0">](https://tailwindcss.com "TailwindCSS")
 [<img align="left" width="40" height="40" alt="Git" src="https://api.iconify.design/devicon:git.svg" style="padding: 0 20px 16px 0">](https://git-scm.com "Git")
-[<picture><source media="(prefers-color-scheme: light)" srcset="https://api.iconify.design/simple-icons:github.svg?color=%23000000" /><img width="40" height="40" alt="Github" src="https://api.iconify.design/simple-icons:github.svg?color=%23ffffff" style="padding: 0 20px 16px 0"/></picture>](https://github.com "Github")
+[<picture><source media="(prefers-color-scheme: light)" srcset="https://api.iconify.design/simple-icons:github.svg?color=%23000000" /><img align="left" width="40" height="40" alt="Github" src="https://api.iconify.design/simple-icons:github.svg?color=%23ffffff" style="padding: 0 20px 16px 0"/></picture>](https://github.com "Github")
 [<img width="40" height="40" alt="Docker" src="https://api.iconify.design/logos:docker-icon.svg" style="padding: 0 20px 16px 0">](https://www.docker.com "Docker")
 
 ## Used
